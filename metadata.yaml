@@ -1,0 +1,51 @@
+_repo: The-invisible-master_74086
+_version: 0.0.1
+contributor:
+  illustrators:
+  - agent_name: Paul, Frank R. (Frank Rudolph)
+    alias: Paul, Frank Rudolph
+    birthdate: 1884
+    deathdate: 1963
+    gutenberg_agent_id: '31333'
+    url: http://www.gutenberg.org/2009/agents/31333
+    wikipedia: https://en.wikipedia.org/wiki/Frank_R._Paul
+  - agent_name: Ruger, John
+    aliases:
+    - Ruger, Jno
+    - Ruger, J.
+    gutenberg_agent_id: '57339'
+    url: http://www.gutenberg.org/2009/agents/57339
+creator:
+  author:
+    agent_name: Hamilton, Edmond
+    alias: Sterling, Brett
+    birthdate: 1904
+    deathdate: 1977
+    gutenberg_agent_id: '26787'
+    url: http://www.gutenberg.org/2009/agents/26787
+    wikipedia: https://en.wikipedia.org/wiki/Edmond_Hamilton
+description: ''
+gutenberg_issued: '2024-07-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74086'
+language: en
+pgterms:marc905: 20240510140349hamilton
+pgterms:marc906: '1930'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aUnited States :$bTechni-Craft Publishing Corporation, $c1930.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'New York (N.Y.) -- Fiction'
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'Criminals -- Fiction'
+- !lcsh 'Physicists -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The invisible master
+url: http://www.gutenberg.org/ebooks/74086
